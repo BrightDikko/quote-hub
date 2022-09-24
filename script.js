@@ -55,7 +55,8 @@ async function getQuotes() {
         newQuote();
 
     } catch (error) {
-        // getQuotes();
+        // Catch Error
+        // getQuotes(); 
     }
 }
 
